@@ -1,7 +1,7 @@
 DWP Deployment Plan
 ====================
-Staging Server http://104.131.164.114/
-Production Server http://104.236.33.19/ 
+Staging Server http://104.131.164.114/<br/>
+Production Server http://104.236.33.19/ <br/>
 Domain http://www.beyerbuilds.com/ (had issues with HostGator that's why it's not the production Server)
 
 ###All instructions take place in the Terminal
