@@ -1,5 +1,7 @@
-DWP Deployment Plan
+Deployment Plan 
 ====================
+###Personal Portfolio Site
+
 Staging Server http://104.131.164.114/<br/>
 Production Server http://104.236.33.19/ <br/>
 Domain http://www.beyerbuilds.com/ (had issues with HostGator that's why it's not the production Server)
